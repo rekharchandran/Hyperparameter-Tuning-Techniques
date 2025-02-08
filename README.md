@@ -13,3 +13,17 @@ Optuna Optimization
 Hyperband Optimization
 
 Each technique is demonstrated using the Breast Cancer dataset from scikit-learn and models such as RandomForestClassifier and Neural Networks
+
+Required Libraries:
+
+scikit-learn
+
+optuna
+
+keras-tuner
+
+bayesian-optimization
+
+tensorflow
+
+numpy
